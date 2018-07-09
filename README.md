@@ -6,7 +6,7 @@
 
 ### Project Overview
 
-This is the first project in ML Advanced Nanodegree at Udacity. In this project I will apply reinforcement learning techniques for a self-driving agent in a simplified world to aid it in effectively reaching its destinations in the allotted time.
+This is the first project in ML Advanced Nanodegree from Udacity. In this project I will apply reinforcement learning techniques for a self-driving agent in a simplified world to aid it in effectively reaching its destinations in the allotted time.
 
 I will first investigate the environment the agent operates in by constructing a very basic driving implementation. Once the agent is successful at operating within the environment, I will then identify each possible state the agent can be in when considering such things as traffic lights and oncoming traffic at each intersection. With states identified, I will then implement a Q-Learning algorithm for the self-driving agent to guide the agent towards its destination within the allotted time.
 
